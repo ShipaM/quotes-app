@@ -1,0 +1,2 @@
+server/src/database/data/*.csv filter=lfs diff=lfs merge=lfs -text
+server/src/database/data/*.gz filter=lfs diff=lfs merge=lfs -text
